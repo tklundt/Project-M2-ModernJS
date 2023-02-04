@@ -1,0 +1,11 @@
+{
+  "name": "project-m2-modernjs",
+  "version": "1.0.0",
+  "description": "Module 2 Assignment: ES6 Modern JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trey Klundt - tklundt@asu.edu",
+  "license": "ISC"
+}
